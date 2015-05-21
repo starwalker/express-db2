@@ -1,0 +1,9 @@
+{
+  "host" : "db.yourcompony.com",
+  "port" : 446,
+  "database" : "CABMS",
+  "schema" : "T35DBC",
+  "userId" : "ABC",
+  "passwd" : "XYZ",
+  "maxConnections": 5
+}
